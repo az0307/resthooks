@@ -18,7 +18,7 @@ This is a **legacy Python 2.7** application. Treat it as a static-content Flask 
 
 ## Repository Structure
 
-```
+```text
 resthooks.py         # the Flask app — routes, FlatPages setup, Markdown/Pygments rendering
 config.py            # Flask config (STATIC_URL, POSTS_PER_PAGE, FLATPAGES_EXTENSION, DEBUG, ...)
 templates/           # Jinja templates: index.html, post.html, 404.html
